@@ -1,14 +1,14 @@
 [
   {
     "name" : "ABC",
-    "thumb" : "",
+    "thumb" : "https://designersj.github.io/bollywood_wallpapers_json/thumb1.png",
   },
   {
     "name" : "DEF",
-    "thumb" : "",
+    "thumb" : "https://designersj.github.io/bollywood_wallpapers_json/thumb2.jpg",
   },
   {
     "name" : "GHI",
-    "thumb" : "",
+    "thumb" : "https://designersj.github.io/bollywood_wallpapers_json/thumb3.jpg",
   }
 ]
