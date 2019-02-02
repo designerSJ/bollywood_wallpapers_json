@@ -1,14 +1,14 @@
 [
   {
-    name: "ABC"
+    name: "ABC",
     thumb: "",
   },
   {
-    name: "DEF"
+    name: "DEF",
     thumb: "",
   },
   {
-    name: "GHI"
+    name: "GHI",
     thumb: "",
   }
 ]
