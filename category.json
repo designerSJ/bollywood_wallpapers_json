@@ -1,6 +1,14 @@
 [
   {
     "name" : "ABC",
+    "thumb" : "https://images2.alphacoders.com/121/thumb-1920-121152.jpg"
+  },
+  {
+    "name" : "ABC",
+    "thumb" : "https://images4.alphacoders.com/117/thumb-1920-117378.jpg"
+  },
+  {
+    "name" : "ABC",
     "thumb" : "https://designersj.github.io/bollywood_wallpapers_json/thumb1.png"
   },
   {
